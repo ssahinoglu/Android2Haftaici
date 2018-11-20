@@ -2,4 +2,5 @@
 
 1.Gün
 Data Binding, Volley POST, PHP POST, PHP SQLite DB
-https://www.youtube.com/watch?v=o-JyEnoSR9Q
+Video - https://www.youtube.com/watch?v=EMJ18ogxPOg
+Kaynak - https://serifgungor.com/blogs/212-android-volley-kutuphanesi-kullanimi
